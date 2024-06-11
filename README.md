@@ -1,0 +1,2 @@
+# FULLSTACK-GPT
+llm 공부
